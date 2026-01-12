@@ -31,7 +31,7 @@ pip install streamlit requests pandas
 
 1. Run the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run cf-analysis.py
 ```
 
 2. Enter your Codeforces username in the text input field
